@@ -50,9 +50,8 @@ E-Commerce Fraud Detection Dataset from Kaggle
 ## How to Run
 
 1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open `ecommerce_fraud_detection.ipynb` in Jupyter
-4. Run all cells in order
+2. Open `ecommerce_fraud_detection.ipynb` in Jupyter
+3. Run all cells in order
 
 ## License
 

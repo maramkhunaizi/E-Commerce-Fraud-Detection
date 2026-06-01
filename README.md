@@ -20,9 +20,9 @@ This project implements a binary classification model to detect fraudulent e-com
 ## Dataset
 
 E-Commerce Fraud Detection Dataset from Kaggle
-- ~300,000 transactions
+- 300,000 transactions
 - 17 features (numerical + categorical)
-- Binary fraud label (severe class imbalance: 1:44)
+- Binary fraud label 
 
 ## Pipeline
 
